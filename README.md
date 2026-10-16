@@ -4,6 +4,9 @@
 
 **Desarrollador de software · Docente universitario · Investigador**
 
+![Presentación animada](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=1100&color=3B82F6&center=true&vCenter=true&width=700&lines=Desarrollo+de+software;Docencia+universitaria;Investigaci%C3%B3n+y+educaci%C3%B3n)
+
+
 *Ingeniería de software, sistemas de información y educación superior*
 
 [![GitHub](https://img.shields.io/badge/GitHub-AlexBerchtold-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/AlexBerchtold)
@@ -43,6 +46,16 @@ Combino el desarrollo de software con la **docencia universitaria en programaci�
 - **Plataformas web:** trabajo con WordPress y Joomla!.
 - **Docencia e investigación:** fundamentos de programación, algoritmia y educación superior.
 
+### Proyecto público destacado
+
+**[Sistema de Empeños — versión anterior en PHP](https://github.com/AlexBerchtold/empenhos_php)**
+
+Implementación anterior del sistema de empeños con **JavaScript, HTML, PHP, CSS y SCSS**.
+
+[![Ver repositorio público](https://img.shields.io/badge/Ver_repositorio-empenhos__php-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/AlexBerchtold/empenhos_php)
+
+> También tengo experiencia en sistemas de gestión académica y administrativa, gestión de bienes y servicios, aplicaciones empresariales e integración móvil. Estos trabajos se describen como experiencia profesional, **sin vincular repositorios privados**.
+
 ### Formación académica
 
 - **Licenciatura en Análisis de Sistemas**
@@ -60,6 +73,26 @@ Mi actividad y mis contribuciones públicas se pueden consultar directamente en 
 
 [![Ver actividad pública](https://img.shields.io/badge/Ver_actividad_y_contribuciones-GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexBerchtold)
 [![Repositorios públicos](https://img.shields.io/badge/Explorar_repositorios_públicos-GitHub-374151?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexBerchtold?tab=repositories)
+
+</div>
+
+> **Sobre las estadísticas:** he omitido las tarjetas de *GitHub Stats*, *Top Languages*, *Streak*, *Trophies* y *Activity Graph* porque sus servicios externos pueden fallar, limitar solicitudes o no encontrar datos accesibles. No se muestran números estimados ni proyectos privados.
+
+
+<!-- Visualizaciones generadas por GitHub Actions a partir de datos públicos -->
+
+<div align="center">
+
+**Actividad pública reciente (últimos 30 días)**
+
+![Gráfico de eventos públicos recientes](https://raw.githubusercontent.com/AlexBerchtold/AlexBerchtold/output/public-activity.svg)
+
+**Contribuciones · Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexBerchtold/AlexBerchtold/output/snake-dark.svg" />
+  <img alt="Animación del calendario de contribuciones públicas" src="https://raw.githubusercontent.com/AlexBerchtold/AlexBerchtold/output/snake.svg" />
+</picture>
 
 </div>
 
