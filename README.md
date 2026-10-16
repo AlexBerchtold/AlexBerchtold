@@ -14,8 +14,6 @@ Desarrollo de sistemas de información, soluciones web y aplicaciones móviles.
 
 Soy desarrollador de software y docente universitario, con experiencia en el diseño, desarrollo, mantenimiento y administración de sistemas de información. Mi trabajo se centra en soluciones para procesos académicos y administrativos, la integración de servicios y la evolución de aplicaciones existentes.
 
-También curso estudios de **Doctorado en Educación y Desarrollo Humano**, con interés en las trayectorias académicas, las políticas educativas y el análisis de datos para la toma de decisiones.
-
 ## Tecnologías y herramientas
 
 **Backend y seguridad**  
