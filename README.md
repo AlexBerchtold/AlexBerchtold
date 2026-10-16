@@ -76,8 +76,6 @@ Mi actividad y mis contribuciones públicas se pueden consultar directamente en 
 
 </div>
 
-> **Sobre las estadísticas:** he omitido las tarjetas de *GitHub Stats*, *Top Languages*, *Streak*, *Trophies* y *Activity Graph* porque sus servicios externos pueden fallar, limitar solicitudes o no encontrar datos accesibles. No se muestran números estimados ni proyectos privados.
-
 
 <!-- Visualizaciones generadas por GitHub Actions a partir de datos públicos -->
 
