@@ -4,87 +4,97 @@
 
 **Desarrollador de software · Docente universitario · Investigador**
 
-Desarrollo de sistemas de información, soluciones web y aplicaciones móviles.
+[![Presentación animada](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1100&color=4B91D1&center=true&vCenter=true&width=700&lines=Ingenier%C3%ADa+de+software+y+sistemas+de+informaci%C3%B3n;Java+%7C+Spring+Boot+%7C+PostgreSQL;Desarrollo+web%2C+m%C3%B3vil+y+gesti%C3%B3n+tecnol%C3%B3gica;Docencia+universitaria+e+investigaci%C3%B3n)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-AlexBerchtold-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlexBerchtold)
+[![GitHub](https://img.shields.io/badge/GitHub-AlexBerchtold-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlexBerchtold)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_profesional-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-bryan-6266a7131/)
+[![Instagram](https://img.shields.io/badge/Instagram-alexbryanbp-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alexbryanbp/)
 
 </div>
 
-## Sobre mí
+---
 
-Soy desarrollador de software y docente universitario, con experiencia en el diseño, desarrollo, mantenimiento y administración de sistemas de información. Mi trabajo se centra en soluciones para procesos académicos y administrativos, la integración de servicios y la evolución de aplicaciones existentes.
+### Sobre mí
 
-## Tecnologías y herramientas
+Me dedico al **análisis, desarrollo, implementación y mantenimiento de sistemas de información**, con especial interés en las soluciones que mejoran los procesos de gestión. Mi trabajo abarca aplicaciones empresariales, servicios backend, interfaces web, bases de datos e integración con aplicaciones móviles.
 
-**Backend y seguridad**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+Combino la práctica del desarrollo de software con la **docencia universitaria en programación** y la investigación en educación y desarrollo humano. Me interesa construir soluciones sostenibles, seguras y adaptadas a necesidades reales.
 
-**Bases de datos**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-555555?style=flat)
+### Tecnologías y herramientas
 
-**Web y aplicaciones móviles**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+**Backend y APIs**
 
-**Herramientas e infraestructura**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-374151?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-374151?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-## Proyectos y áreas de experiencia
+**Frontend y desarrollo móvil**
 
-> Los siguientes apartados describen experiencia y líneas de trabajo. No implican que el código fuente de estos sistemas esté publicado en GitHub.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### Sistemas de gestión académica
+**Datos, plataformas e infraestructura**
 
-Desarrollo, mantenimiento y administración de sistemas para procesos universitarios, incluyendo inscripciones, matrículas, seguimiento académico, reportes e indicadores para la gestión institucional.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![JasperReports](https://img.shields.io/badge/JasperReports-455A64?style=flat-square)
 
-### Gestión administrativa, bienes y servicios
+### Experiencia y áreas de trabajo
 
-Desarrollo de aplicaciones web para la administración de activos, compras, existencias, solicitudes, entregas, mantenimiento y generación de informes. Experiencia en aplicaciones monolíticas con Java, Spring Boot, PostgreSQL y Thymeleaf.
+- **Sistemas de información:** análisis, desarrollo y mantenimiento de soluciones académicas, administrativas y empresariales.
+- **Modernización tecnológica:** evolución de aplicaciones existentes, integración de servicios y migración entre tecnologías.
+- **Aplicaciones web y móviles:** desarrollo de interfaces, APIs REST y mecanismos de autenticación y autorización.
+- **Bases de datos e infraestructura:** modelado y consultas SQL, PostgreSQL, despliegue y administración de aplicaciones en Linux y Apache Tomcat.
+- **Plataformas web:** trabajo con gestores de contenido como WordPress y Joomla!.
+- **Docencia e investigación:** enseñanza de fundamentos de programación e investigación en educación y desarrollo humano.
 
-### Integración de aplicaciones móviles
+### Proyecto público destacado
 
-Desarrollo e integración de aplicaciones móviles con servicios backend, APIs REST y mecanismos de autenticación basados en JWT, manteniendo la compatibilidad con sistemas web existentes.
+<a href="https://github.com/AlexBerchtold/empenhos_php">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexBerchtold&repo=empenhos_php&theme=transparent&hide_border=true" alt="Repositorio empenhos_php" />
+</a>
 
-### Infraestructura y despliegue
+**[Sistema de Empeños — implementación anterior en PHP](https://github.com/AlexBerchtold/empenhos_php)**  
+Repositorio de una versión anterior del sistema, desarrollada con tecnologías web como **JavaScript, HTML, PHP, CSS y SCSS**.
 
-Configuración de entornos Linux, PostgreSQL, Java y Apache Tomcat para la publicación y administración de aplicaciones web.
+> Además del repositorio público anterior, mi experiencia incluye proyectos de gestión académica y administrativa, gestión de bienes y servicios, aplicaciones empresariales e integración móvil. Estas áreas se describen sin atribuirles repositorios públicos no confirmados.
 
-## Docencia e investigación
+### Formación académica
 
-- Docencia universitaria en fundamentos de algorítmica y programación.
-- Formación doctoral en Educación y Desarrollo Humano.
-- Interés en políticas educativas, acceso, permanencia, rendimiento académico y análisis de datos educativos.
-- Aplicación de la tecnología para mejorar procesos de gestión y apoyar decisiones basadas en información.
+- **Licenciatura en Análisis de Sistemas**
+- **Especialización en Didáctica Universitaria**
+- **Maestría en Informática Aplicada a la Ingeniería de Software**
+- **Doctorado en Educación y Desarrollo Humano** — *en etapa de culminación*
+- **Diplomado en Análisis Digital Forense**
+- **Diplomado en Ciberseguridad**
 
-## Actividad en GitHub
+### Actividad en GitHub
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlexBerchtold&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexBerchtold&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBerchtold&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Lenguajes de repositorios públicos" />
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBerchtold&layout=compact&hide_border=true&theme=transparent)
+<img src="https://streak-stats.demolab.com?user=AlexBerchtold&theme=transparent&hide_border=true" alt="Racha de contribuciones" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexBerchtold&theme=github-compact&hide_border=true&area=true" alt="Gráfico de actividad de GitHub" />
+
+<details>
+<summary>Ver trofeos de GitHub</summary>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlexBerchtold&theme=flat&no-frame=true&column=4&margin-w=8" alt="Trofeos de GitHub" />
+
+</details>
+
+### Contribuciones
+
+![Animación de contribuciones](https://raw.githubusercontent.com/AlexBerchtold/AlexBerchtold/output/github-contribution-grid-snake.svg)
+
+<sub>La animación se mostrará después de activar el workflow incluido en <code>.github/workflows/snake.yml</code>.</sub>
 
 </div>
-
-<sub>Las tarjetas se generan mediante un servicio externo y pueden no estar disponibles temporalmente. Los lenguajes reflejan los repositorios analizados por el servicio, no una evaluación de dominio técnico.</sub>
 
 ---
 
 <div align="center">
 
-**Tecnología, educación y mejora continua.**
+**Software, educación e investigación: tecnología aplicada a problemas reales.**
 
-[Ver perfil de GitHub](https://github.com/AlexBerchtold)
+[GitHub](https://github.com/AlexBerchtold) · [LinkedIn](https://www.linkedin.com/in/alex-bryan-6266a7131/) · [Instagram](https://www.instagram.com/alexbryanbp/)
 
 </div>
