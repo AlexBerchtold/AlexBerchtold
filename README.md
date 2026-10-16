@@ -43,16 +43,6 @@ Combino el desarrollo de software con la **docencia universitaria en programaci�
 - **Plataformas web:** trabajo con WordPress y Joomla!.
 - **Docencia e investigación:** fundamentos de programación, algoritmia y educación superior.
 
-### Proyecto público destacado
-
-**[Sistema de Empeños — versión anterior en PHP](https://github.com/AlexBerchtold/empenhos_php)**
-
-Implementación anterior del sistema de empeños con **JavaScript, HTML, PHP, CSS y SCSS**.
-
-[![Ver repositorio público](https://img.shields.io/badge/Ver_repositorio-empenhos__php-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/AlexBerchtold/empenhos_php)
-
-> También tengo experiencia en sistemas de gestión académica y administrativa, gestión de bienes y servicios, aplicaciones empresariales e integración móvil. Estos trabajos se describen como experiencia profesional, **sin vincular repositorios privados**.
-
 ### Formación académica
 
 - **Licenciatura en Análisis de Sistemas**
@@ -72,8 +62,6 @@ Mi actividad y mis contribuciones públicas se pueden consultar directamente en 
 [![Repositorios públicos](https://img.shields.io/badge/Explorar_repositorios_públicos-GitHub-374151?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexBerchtold?tab=repositories)
 
 </div>
-
-> **Sobre las estadísticas:** he omitido las tarjetas de *GitHub Stats*, *Top Languages*, *Streak*, *Trophies* y *Activity Graph* porque sus servicios externos pueden fallar, limitar solicitudes o no encontrar datos accesibles. No se muestran números estimados ni proyectos privados.
 
 ---
 
